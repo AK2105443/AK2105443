@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarrepo&" alt="ankitkumarrepo" /></p>
 
+![aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1](https://github.com/AnkitKumarRepo/AnkitKumarRepo/assets/128515578/893f37ba-8daf-4e92-a02c-6f37fd9a01cf)
